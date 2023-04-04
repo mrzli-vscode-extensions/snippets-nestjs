@@ -2,7 +2,12 @@
   "name": "snippets-nestjs",
   "displayName": "Snippets NestJS",
   "description": "Code snippets for NestJS",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "goran-mrzljak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzli-vscode-extensions/snippets-nestjs"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },

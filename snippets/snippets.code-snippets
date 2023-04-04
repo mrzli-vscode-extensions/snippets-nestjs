@@ -16,7 +16,7 @@
       ""
     ]
   },
-  "Nest Service": {
+  "Nest Injectable": {
     "scope": "typescript",
     "prefix": "gmnestinjectable",
     "description": "Empty nest injectable, with imports.",

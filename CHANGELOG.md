@@ -11,3 +11,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Descriptions for snippets.
+
+## [0.0.5] - 2023-04-04
+
+### Fixed
+
+- Fixed snippet name for injectable.

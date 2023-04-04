@@ -2,6 +2,7 @@
   "Nest Module": {
     "scope": "typescript",
     "prefix": "gmnestmodule",
+    "description": "Empty nest module, with imports.",
     "body": [
       "import { Module } from '@nestjs/common';",
       "",
@@ -18,6 +19,7 @@
   "Nest Service": {
     "scope": "typescript",
     "prefix": "gmnestinjectable",
+    "description": "Empty nest injectable, with imports.",
     "body": [
       "import { Injectable } from '@nestjs/common';",
       "",
@@ -31,6 +33,7 @@
   "Nest Controller": {
     "scope": "typescript",
     "prefix": "gmnestcontroller",
+    "description": "Empty nest controller, with imports.",
     "body": [
       "import { Controller, Get } from '@nestjs/common';",
       "",
